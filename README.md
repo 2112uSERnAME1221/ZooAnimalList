@@ -5,6 +5,10 @@ It will be a website for a brand new zoo. There will be different sections for t
 
 Week 2:
 
+Link to Github:
+
+2112uSERnAME1221/ZooAnimalList
+
 <img width="899" height="850" alt="AnimalDataBase" src="https://github.com/user-attachments/assets/c2031dfc-1be4-43af-be8f-6ace68b28834" />
 <img width="847" height="795" alt="PriceDataBase" src="https://github.com/user-attachments/assets/de611bef-9f5e-4c4d-81a6-2806ca007cd1" />
 <img width="821" height="802" alt="EventDataBase" src="https://github.com/user-attachments/assets/abcd0511-cf53-4d65-bca4-201a339bffc9" />
